@@ -1,0 +1,19 @@
+name: shadow_cricket_app
+description: Flutter client for Shadow Cricket AI V1.
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  image_picker: ^1.0.4
+  provider: ^6.1.1 # Simple state management for V1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

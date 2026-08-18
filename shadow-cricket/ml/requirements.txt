@@ -1,0 +1,10 @@
+torch
+torchvision
+mediapipe==0.10.14
+opencv-contrib-python
+Pillow
+pandas
+numpy
+scikit-learn
+tabulate
+pyarrow
